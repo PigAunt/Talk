@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkSrv", "TalkSrv\TalkSrv.csproj", "{45EF596A-0891-4C72-B9E4-B5ACD63EA8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkCli", "TalkCli\TalkCli.csproj", "{06679C4E-477A-4DFE-9851-446B98AA0DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EF596A-0891-4C72-B9E4-B5ACD63EA8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EF596A-0891-4C72-B9E4-B5ACD63EA8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EF596A-0891-4C72-B9E4-B5ACD63EA8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EF596A-0891-4C72-B9E4-B5ACD63EA8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06679C4E-477A-4DFE-9851-446B98AA0DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06679C4E-477A-4DFE-9851-446B98AA0DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06679C4E-477A-4DFE-9851-446B98AA0DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06679C4E-477A-4DFE-9851-446B98AA0DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B87A05-4027-470C-9D17-7524BCA47C62}
+	EndGlobalSection
+EndGlobal
